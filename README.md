@@ -27,7 +27,7 @@ I will continue to improve code for everyone and add english comments and give d
 * iOS 8.0 or later
 
 ## Features
-* Adjust frame, font, label sizes to all iOS devices
+* Adjust frame, font, label size to all iOS devices
 * Infinite calendar scrolling
 * Scrolling to current date by tapping navigation bar or status bar
 * Detecting current date by tapping date label
