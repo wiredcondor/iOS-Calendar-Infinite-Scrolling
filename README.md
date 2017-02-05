@@ -17,7 +17,7 @@ Code is not clean and some file is not used. for example PSHEvent..... files are
 But infinite calendar scrolling, date selection, touching navigation bar to current date are no flaw and really working well.
 
 
-I will add english comments and detail code documentation.
+I will continue to improve code for everyone and add english comments and detail code documentation.
 
 
 <img width="375" alt="000" src="https://cloud.githubusercontent.com/assets/7078328/22624827/6cde52aa-ebca-11e6-93b7-2505f0c714ea.gif">
