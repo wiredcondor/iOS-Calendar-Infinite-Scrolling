@@ -44,6 +44,6 @@ I will continue to improve code for everyone and add english comments and give d
 ## Contact
 
 * https://github.com/wiredcondor
-* wiredcondor at gmail.com
+* wiredcondor at gmail dot com
 
 
