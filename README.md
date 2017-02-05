@@ -16,7 +16,7 @@ Instead, get the screen size of current iOS device and adjust font size, frame s
 
 (so to speak; multiplication and division...)
 
-Code is not clean and some file is not used. for example PSHEvent..... files are not used.
+Some file is not used. for example PSHEvent..... files are not used.
 
 But infinite calendar scrolling, date selection, touching navigation bar to current date are no flaw and really working well.
 
