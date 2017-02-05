@@ -2,13 +2,19 @@
 
 This is my first GitHub repository.
 
-Infinite Scrolling iOS Calendar implemented by Objective-C
+Infinite Scrolling iOS Calendar implemented by Objective-C.
+
 This is my toy project to implement iOS calendar function based on native Objective-C.
-All comments of codes are written by **Korean**
+
+All comments of codes are written by **Korean**.
+
 I did not use AutoLayout for various screen size of iOS devices.
+
 Instead, get the screen size of current iOS device and adjust font size, frame size and label size using simple math.
 (so to speak; multiplication and division...)
+
 Some file is not used. for example PSHEvent..... files are not used.
+
 I will continue to improve code for everyone and add english comments and give detail code documentation.
 
 ## Development environment
