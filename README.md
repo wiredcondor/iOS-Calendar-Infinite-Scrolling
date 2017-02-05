@@ -21,7 +21,7 @@ Some file is not used. for example PSHEvent..... files are not used.
 I will continue to improve code for everyone and add english comments and give detail code documentation.
 
 ## Development environment
-* Only used Xcode 8.2
+* Xcode 8.2
 
 ## iOS Deployment Target
 * iOS 8.0 or later
