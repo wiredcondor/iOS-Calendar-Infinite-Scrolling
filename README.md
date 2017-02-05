@@ -8,7 +8,7 @@ This is my toy project to implement iOS calendar function based on native Object
 
 This is my first GitHub repository.
 
-All comments of codes are written by **Korean**.
+All comments of codes are written by <font color="blue">**Korean**</font>.
 
 I did not use AutoLayout for various screen size of iOS devices.
 
