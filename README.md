@@ -23,6 +23,11 @@ But infinite calendar scrolling, date selection, touching navigation bar to curr
 
 I will continue to improve code for everyone and add english comments and give detail code documentation.
 
+## Features
+* Infinite calendar scrolling
+* Scrolling to current date by tapping navigation bar or status bar
+* Detecting current date by tapping date label
+
 ## Screenshots
 
 <img width="375" alt="000" src="https://cloud.githubusercontent.com/assets/7078328/22624827/6cde52aa-ebca-11e6-93b7-2505f0c714ea.gif">
