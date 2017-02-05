@@ -10,6 +10,8 @@ This is my first GitHub repository.
 
 All comments of codes are written by <font color="blue">Korean</font>.
 
+All comments of codes are written by <span style="color:blue">Korean</span>.
+
 I did not use AutoLayout for various screen size of iOS devices.
 
 Instead, get the screen size of current iOS device and adjust font size, frame size and label size using simple math.
