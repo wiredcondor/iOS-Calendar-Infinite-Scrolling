@@ -15,8 +15,6 @@ I did not use AutoLayout for various screen size of iOS devices.
 Instead, get the screen size of current iOS device and adjust font size, frame size and label size using simple math.
 (so to speak; multiplication and division...)
 
-* There is some files and codes that is not used in this repositry. (will fix and remove it)
-
 I will continue to improve code for everyone and add english comments and give detail code documentation.
 
 ## Development environment
@@ -46,4 +44,8 @@ I will continue to improve code for everyone and add english comments and give d
 * https://github.com/wiredcondor
 * wiredcondor at gmail dot com
 
+## Issues
+
+* There is some files and codes that is not used in this repositry. (will fix and remove it)
+* That is... PSHEventDetailController, PSHEventPickController, PSHEventViewController, PSHTableViewController
 
