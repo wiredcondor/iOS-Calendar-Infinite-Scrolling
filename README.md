@@ -2,13 +2,13 @@
 
 
 
-Infinite Scrolling iOS Calendar implemented by Objective-C in Xcode 8.2
+Infinite Scrolling iOS Calendar implemented by Objective-C
 
 This is my toy project to implement iOS calendar function based on native Objective-C.
 
 This is my first GitHub repository.
 
-All comments of codes are written by Korean.
+All comments of codes are written by **Korean**.
 
 I did not use AutoLayout for various screen size of iOS devices.
 
