@@ -46,9 +46,9 @@ I will continue to improve code for everyone and add english comments and give d
 
 ## Issues
 
-* There are some files and codes that is not used in this repository. 
+* There are some files and codes that are not used in this repository. 
 * For example, unused files are PSHEventDetailController, PSHEventPickController, PSHEventViewController, PSHTableViewController.
-* I will check file and code dependency and fix this issues.
+* I will check files,code dependency and fix this issues.
 
 
 
